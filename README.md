@@ -1,9 +1,9 @@
 Here's a README.md file for your React project:
 
 markdown
-# Video Carousel App
+# Video Carousel TV  App
 
-This is a simple React application that displays a carousel of videos, allowing users to cycle through them using "Next" and "Previous" buttons.
+This is a simple React application that displays a carousel of videos on TV, allowing users to cycle through them using "Next" and "Previous" buttons.
 
 ## Features
 
@@ -48,7 +48,7 @@ You can try out the app locally by following the setup instructions below.
 ## File Structure
 
 
-/video-carousel-app
+/app
 ├── /public
 │   └── index.html          # Main HTML file
 ├── /src
